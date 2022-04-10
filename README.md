@@ -1,0 +1,2 @@
+# ExamPreparationManualTesting
+ManualTesting
